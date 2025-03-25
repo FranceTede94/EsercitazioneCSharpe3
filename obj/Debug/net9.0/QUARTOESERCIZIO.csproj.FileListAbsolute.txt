@@ -1,0 +1,14 @@
+C:\Users\f.tedesco\Desktop\QUARTOESERCIZIO\QUARTOESERCIZIO\bin\Debug\net9.0\QUARTOESERCIZIO.exe
+C:\Users\f.tedesco\Desktop\QUARTOESERCIZIO\QUARTOESERCIZIO\bin\Debug\net9.0\QUARTOESERCIZIO.deps.json
+C:\Users\f.tedesco\Desktop\QUARTOESERCIZIO\QUARTOESERCIZIO\bin\Debug\net9.0\QUARTOESERCIZIO.runtimeconfig.json
+C:\Users\f.tedesco\Desktop\QUARTOESERCIZIO\QUARTOESERCIZIO\bin\Debug\net9.0\QUARTOESERCIZIO.dll
+C:\Users\f.tedesco\Desktop\QUARTOESERCIZIO\QUARTOESERCIZIO\bin\Debug\net9.0\QUARTOESERCIZIO.pdb
+C:\Users\f.tedesco\Desktop\QUARTOESERCIZIO\QUARTOESERCIZIO\obj\Debug\net9.0\QUARTOESERCIZIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f.tedesco\Desktop\QUARTOESERCIZIO\QUARTOESERCIZIO\obj\Debug\net9.0\QUARTOESERCIZIO.AssemblyInfoInputs.cache
+C:\Users\f.tedesco\Desktop\QUARTOESERCIZIO\QUARTOESERCIZIO\obj\Debug\net9.0\QUARTOESERCIZIO.AssemblyInfo.cs
+C:\Users\f.tedesco\Desktop\QUARTOESERCIZIO\QUARTOESERCIZIO\obj\Debug\net9.0\QUARTOESERCIZIO.csproj.CoreCompileInputs.cache
+C:\Users\f.tedesco\Desktop\QUARTOESERCIZIO\QUARTOESERCIZIO\obj\Debug\net9.0\QUARTOESERCIZIO.dll
+C:\Users\f.tedesco\Desktop\QUARTOESERCIZIO\QUARTOESERCIZIO\obj\Debug\net9.0\refint\QUARTOESERCIZIO.dll
+C:\Users\f.tedesco\Desktop\QUARTOESERCIZIO\QUARTOESERCIZIO\obj\Debug\net9.0\QUARTOESERCIZIO.pdb
+C:\Users\f.tedesco\Desktop\QUARTOESERCIZIO\QUARTOESERCIZIO\obj\Debug\net9.0\QUARTOESERCIZIO.genruntimeconfig.cache
+C:\Users\f.tedesco\Desktop\QUARTOESERCIZIO\QUARTOESERCIZIO\obj\Debug\net9.0\ref\QUARTOESERCIZIO.dll
